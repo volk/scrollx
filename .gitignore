@@ -1,0 +1,5 @@
+##basic swaps
+*.swp
+*.h~
+*.cpp~
+game
